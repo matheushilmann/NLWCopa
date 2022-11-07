@@ -36,7 +36,7 @@ O NLW Copa consiste em um projeto de um bolão da copa do mundo, muito focado em
 onde você consegue criar seu bolão e compartilhar com seus amigos para que possam também participar e dar seus palpites sobre os jogos da copa, com ranking e pontos
 somados jogo a jogo, onde utilizamos as tecnologias e práticas mais atualizadas do mercado, com interface web e servidor para cadastro e atualização de palpites, 
 ranking e jogos.
-<p>Durante essa semana de aprendizado, evoluí muito e aprendi muito sobre ReactJS, React Native e todas as tecnologias abordadas e utilizadas durante essa semana.
+<p>Durante essa semana de aprendizado, evoluí muito e aprendi muito sobre ReactJS, React Native e todas as tecnologias abordadas e utilizadas nas aulas.
 Foi muito gratificante essa participação no evento. Meu muito obrigado aos educadores Rodrigo e Diego pelo empenho e didática usada nas aulas.
 
 ## 🔖 Layout
