@@ -14,10 +14,10 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center" display=flex>
-  <img width=230px src="https://user-images.githubusercontent.com/72142358/200296650-a6391452-e7af-4744-aa86-12d538e67860.png">
-  <img width=230px src="https://user-images.githubusercontent.com/72142358/200296279-752691fe-3c86-4dd3-83ae-1cb9baeaeaa0.png">
-  <img width=230px src="https://user-images.githubusercontent.com/72142358/200297344-4fcba88f-a94f-464e-abf1-a57cdccce815.png">
-  <img width=230px src="https://user-images.githubusercontent.com/72142358/200297147-9abc6cf1-ae07-4aff-b4e0-8651f379f6e4.png">
+  <img width=200px src="https://user-images.githubusercontent.com/72142358/200296650-a6391452-e7af-4744-aa86-12d538e67860.png">
+  <img width=200px src="https://user-images.githubusercontent.com/72142358/200296279-752691fe-3c86-4dd3-83ae-1cb9baeaeaa0.png">
+  <img width=200px src="https://user-images.githubusercontent.com/72142358/200297344-4fcba88f-a94f-464e-abf1-a57cdccce815.png">
+  <img width=200px src="https://user-images.githubusercontent.com/72142358/200297147-9abc6cf1-ae07-4aff-b4e0-8651f379f6e4.png">
 
 </p>
 
@@ -42,4 +42,3 @@ Foi muito gratificante essa participação no evento. Meu muito obrigado aos edu
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/MKX8ZosxNrSBZHRLotEUgu/Bolão-da-Copa-(Community)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-![Screen Default]()
