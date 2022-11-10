@@ -26,8 +26,8 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - ReactJS, ReactNative, Expo
-- Tailwind CSS, PostCSS, TypeScript
-- Env, Babel, Prisma
+- Tailwind CSS, PostCSS, TypeScript, Zod
+- Env, Babel, Prisma, Insomnia
 - [Node e NPM](https://nodejs.org/)
 
 ## 💻 Projeto
